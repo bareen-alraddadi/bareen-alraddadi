@@ -56,13 +56,15 @@ Indoor Visual Positioning and relocalization project for camera pose estimation.
 ## Connect With Me
 
 **Email**  
+[bareen.alraddadi@gmail.com](mailto:bareen.alraddadi@gmail.com)
+
 ```text
 bareen.alraddadi@gmail.com
 ```
 
 **LinkedIn**  
+[https://www.linkedin.com/in/bareen-alraddadi-633b9a272](https://www.linkedin.com/in/bareen-alraddadi-633b9a272)
+
 ```text
 https://www.linkedin.com/in/bareen-alraddadi-633b9a272
 ```
-
-[Open LinkedIn Profile](https://www.linkedin.com/in/bareen-alraddadi-633b9a272)
