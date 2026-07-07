@@ -16,10 +16,15 @@ Artificial Intelligence graduate with hands-on experience in Data Analysis, Powe
 
 ## Featured Projects
 
-- **WASEL – AI Job Agent** *(Team Project)*
-  - AI career assistant for CV analysis, job matching, skill-gap identification, and learning recommendations.
-  - Built using FastAPI, LLMs, LangGraph, Qdrant, Supabase, and React.
-  - Contributed to the development, testing, documentation, and final presentation of the solution.
+## My Contribution
+
+As part of the team, I contributed across the main stages of the project, including:
+
+- Participated in designing and implementing the AI agent workflow using LangGraph.
+- Contributed to the development and integration of key agents, including CV analysis, job matching, skill-gap analysis, career guidance, and cover-letter generation.
+- Supported the integration between the FastAPI backend, LLM services, vector search, and database components.
+- Contributed to testing the end-to-end workflow, validating outputs, and improving the user experience.
+- Participated in project documentation, demo preparation, and the final presentation.
 
 - **Zahma – Crowd Density Management** *(Team Project)*
   - Computer Vision project using YOLO and density estimation to identify crowd density and empty regions.
