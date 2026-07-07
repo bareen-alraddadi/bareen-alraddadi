@@ -1,5 +1,11 @@
 # Hi, I'm Bareen Alraddadi 👋
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Graduate-7C6A7A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-607D8B?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-789B8A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
 Artificial Intelligence graduate with hands-on experience in Data Analysis, Power BI, Python, SQL, Machine Learning, Computer Vision, and AI applications.
 
 ## About Me
@@ -49,5 +55,5 @@ Indoor Visual Positioning and relocalization project for camera pose estimation.
 
 ## Connect With Me
 
-- LinkedIn: [Bareen Alraddadi](https://www.linkedin.com/in/bareen-alraddadi-633b9a272)
-- Email: bareen.alraddadi@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/bareen-alraddadi-633b9a272)
+- [Email](mailto:bareen.alraddadi@gmail.com)
