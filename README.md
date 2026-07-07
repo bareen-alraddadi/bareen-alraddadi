@@ -15,14 +15,21 @@ Artificial Intelligence graduate with hands-on experience in Data Analysis, Powe
 - **AI Applications:** Computer Vision, YOLO, NLP, LLMs, RAG, FastAPI
 
 ## Featured Projects
-- **WASEL – AI Job Agent**
+
+- **WASEL – AI Job Agent** *(Team Project)*
   - AI career assistant for CV analysis, job matching, skill-gap identification, and learning recommendations.
+  - Built using FastAPI, LLMs, LangGraph, Qdrant, Supabase, and React.
+  - Contributed to the development, testing, documentation, and final presentation of the solution.
 
-- **Zahma – Crowd Density Management**
+- **Zahma – Crowd Density Management** *(Team Project)*
   - Computer Vision project using YOLO and density estimation to identify crowd density and empty regions.
+  - Developed as a graduation project focused on supporting crowd management in high-density environments.
+  - Contributed to research, implementation, evaluation, and project documentation.
 
-- **Robotics Vision & VPS**
-  - Indoor Visual Positioning and relocalization project using COLMAP, DINOv2 features, and PnP-RANSAC for accurate camera pose estimation.
+- **Robotics Vision & VPS** *(Team Project)*
+  - Indoor Visual Positioning and relocalization project using COLMAP, DINOv2 features, and PnP-RANSAC for camera pose estimation.
+  - Contributed to research, experimentation, evaluation, and the final presentation of the visual relocalization pipeline.
+  - [View Project Repository](https://github.com/ilama2/ACEG-Experiments-on-Custom-Data)
 
 ## Connect With Me
 - LinkedIn: [Bareen Alraddadi](https://www.linkedin.com/in/bareen-alraddadi-633b9a272)
